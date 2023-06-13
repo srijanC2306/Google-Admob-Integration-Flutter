@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Freelancing\\Demo\\Demo Flutter\\indtubes_1\\build\\package_info_plus\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-fr-rCA\\values-fr-rCA.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Srijan Mukhopadhyay\\.gradle\\caches\\transforms-3\\7e806e1553fc54c2d8f1a217ff8bb132\\transformed\\core-1.6.0\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\Freelancing\\Demo\\Demo Flutter\\indtubes_1\\build\\package_info_plus\\intermediates\\merged_res\\release\\values-fr-rCA\\values-fr-rCA.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Srijan Mukhopadhyay\\.gradle\\caches\\transforms-3\\7e806e1553fc54c2d8f1a217ff8bb132\\transformed\\core-1.6.0\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

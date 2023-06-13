@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">279889511413-12jag4bhqhtcdhh7vq9136ml497i2hhi.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">279889511413</string>
+    <string name="google_api_key" translatable="false">AIzaSyCpR1bDz23aA4AS3qq2eUQ1m05nxuuR_vE</string>
+    <string name="google_app_id" translatable="false">1:279889511413:android:e74a5972ea2e6ebc1196bc</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCpR1bDz23aA4AS3qq2eUQ1m05nxuuR_vE</string>
+    <string name="google_storage_bucket" translatable="false">indtubes-89824.appspot.com</string>
+    <string name="project_id" translatable="false">indtubes-89824</string>
+</resources>

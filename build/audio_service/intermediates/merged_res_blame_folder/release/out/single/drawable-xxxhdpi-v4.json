@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "D:\\Freelancing\\Demo\\Demo Flutter\\indtubes_1\\build\\audio_service\\intermediates\\merged_res\\release\\drawable-xxxhdpi-v4\\media_session_service_notification_ic_pause.png",
+        "source": "C:\\Users\\Srijan Mukhopadhyay\\.gradle\\caches\\transforms-3\\a00acd4c65d1b81a43693c75679de4f3\\transformed\\jetified-media2-session-1.2.0\\res\\drawable-xxxhdpi-v4\\media_session_service_notification_ic_pause.png"
+    },
+    {
+        "merged": "D:\\Freelancing\\Demo\\Demo Flutter\\indtubes_1\\build\\audio_service\\intermediates\\merged_res\\release\\drawable-xxxhdpi-v4\\media_session_service_notification_ic_play.png",
+        "source": "C:\\Users\\Srijan Mukhopadhyay\\.gradle\\caches\\transforms-3\\a00acd4c65d1b81a43693c75679de4f3\\transformed\\jetified-media2-session-1.2.0\\res\\drawable-xxxhdpi-v4\\media_session_service_notification_ic_play.png"
+    },
+    {
+        "merged": "D:\\Freelancing\\Demo\\Demo Flutter\\indtubes_1\\build\\audio_service\\intermediates\\merged_res\\release\\drawable-xxxhdpi-v4\\audio_service_pause.png",
+        "source": "C:\\Program Files\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\audio_service-0.18.9\\android\\src\\main\\res\\drawable-xxxhdpi\\audio_service_pause.png"
+    },
+    {
+        "merged": "D:\\Freelancing\\Demo\\Demo Flutter\\indtubes_1\\build\\audio_service\\intermediates\\merged_res\\release\\drawable-xxxhdpi-v4\\audio_service_skip_next.png",
+        "source": "C:\\Program Files\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\audio_service-0.18.9\\android\\src\\main\\res\\drawable-xxxhdpi\\audio_service_skip_next.png"
+    },
+    {
+        "merged": "D:\\Freelancing\\Demo\\Demo Flutter\\indtubes_1\\build\\audio_service\\intermediates\\merged_res\\release\\drawable-xxxhdpi-v4\\media_session_service_notification_ic_skip_to_next.png",
+        "source": "C:\\Users\\Srijan Mukhopadhyay\\.gradle\\caches\\transforms-3\\a00acd4c65d1b81a43693c75679de4f3\\transformed\\jetified-media2-session-1.2.0\\res\\drawable-xxxhdpi-v4\\media_session_service_notification_ic_skip_to_next.png"
+    },
+    {
+        "merged": "D:\\Freelancing\\Demo\\Demo Flutter\\indtubes_1\\build\\audio_service\\intermediates\\merged_res\\release\\drawable-xxxhdpi-v4\\media_session_service_notification_ic_skip_to_previous.png",
+        "source": "C:\\Users\\Srijan Mukhopadhyay\\.gradle\\caches\\transforms-3\\a00acd4c65d1b81a43693c75679de4f3\\transformed\\jetified-media2-session-1.2.0\\res\\drawable-xxxhdpi-v4\\media_session_service_notification_ic_skip_to_previous.png"
+    },
+    {
+        "merged": "D:\\Freelancing\\Demo\\Demo Flutter\\indtubes_1\\build\\audio_service\\intermediates\\merged_res\\release\\drawable-xxxhdpi-v4\\audio_service_skip_previous.png",
+        "source": "C:\\Program Files\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\audio_service-0.18.9\\android\\src\\main\\res\\drawable-xxxhdpi\\audio_service_skip_previous.png"
+    },
+    {
+        "merged": "D:\\Freelancing\\Demo\\Demo Flutter\\indtubes_1\\build\\audio_service\\intermediates\\merged_res\\release\\drawable-xxxhdpi-v4\\audio_service_fast_forward.png",
+        "source": "C:\\Program Files\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\audio_service-0.18.9\\android\\src\\main\\res\\drawable-xxxhdpi\\audio_service_fast_forward.png"
+    },
+    {
+        "merged": "D:\\Freelancing\\Demo\\Demo Flutter\\indtubes_1\\build\\audio_service\\intermediates\\merged_res\\release\\drawable-xxxhdpi-v4\\audio_service_fast_rewind.png",
+        "source": "C:\\Program Files\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\audio_service-0.18.9\\android\\src\\main\\res\\drawable-xxxhdpi\\audio_service_fast_rewind.png"
+    },
+    {
+        "merged": "D:\\Freelancing\\Demo\\Demo Flutter\\indtubes_1\\build\\audio_service\\intermediates\\merged_res\\release\\drawable-xxxhdpi-v4\\audio_service_play_arrow.png",
+        "source": "C:\\Program Files\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\audio_service-0.18.9\\android\\src\\main\\res\\drawable-xxxhdpi\\audio_service_play_arrow.png"
+    },
+    {
+        "merged": "D:\\Freelancing\\Demo\\Demo Flutter\\indtubes_1\\build\\audio_service\\intermediates\\merged_res\\release\\drawable-xxxhdpi-v4\\media_session_service_notification_ic_music_note.png",
+        "source": "C:\\Users\\Srijan Mukhopadhyay\\.gradle\\caches\\transforms-3\\a00acd4c65d1b81a43693c75679de4f3\\transformed\\jetified-media2-session-1.2.0\\res\\drawable-xxxhdpi-v4\\media_session_service_notification_ic_music_note.png"
+    },
+    {
+        "merged": "D:\\Freelancing\\Demo\\Demo Flutter\\indtubes_1\\build\\audio_service\\intermediates\\merged_res\\release\\drawable-xxxhdpi-v4\\audio_service_stop.png",
+        "source": "C:\\Program Files\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\audio_service-0.18.9\\android\\src\\main\\res\\drawable-xxxhdpi\\audio_service_stop.png"
+    }
+]

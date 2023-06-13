@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Freelancing\\Demo\\Demo Flutter\\indtubes_1\\build\\audioplayers_android\\intermediates\\merged_res\\release\\values-sl\\values-sl.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Srijan Mukhopadhyay\\.gradle\\caches\\transforms-3\\133a3080eea7401b9ebf18d6ffc13047\\transformed\\core-1.9.0\\res\\values-sl\\values-sl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\Freelancing\\Demo\\Demo Flutter\\indtubes_1\\build\\audioplayers_android\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-sl\\values-sl.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Srijan Mukhopadhyay\\.gradle\\caches\\transforms-3\\133a3080eea7401b9ebf18d6ffc13047\\transformed\\core-1.9.0\\res\\values-sl\\values-sl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

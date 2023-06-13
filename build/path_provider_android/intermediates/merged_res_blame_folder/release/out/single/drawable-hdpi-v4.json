@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\Freelancing\\Demo\\Demo Flutter\\indtubes_1\\build\\path_provider_android\\intermediates\\merged_res\\release\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\Srijan Mukhopadhyay\\.gradle\\caches\\transforms-3\\7e806e1553fc54c2d8f1a217ff8bb132\\transformed\\core-1.6.0\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\Freelancing\\Demo\\Demo Flutter\\indtubes_1\\build\\path_provider_android\\intermediates\\merged_res\\release\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\Srijan Mukhopadhyay\\.gradle\\caches\\transforms-3\\7e806e1553fc54c2d8f1a217ff8bb132\\transformed\\core-1.6.0\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Freelancing\\Demo\\Demo Flutter\\indtubes_1\\build\\path_provider_android\\intermediates\\merged_res\\release\\drawable-hdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\Srijan Mukhopadhyay\\.gradle\\caches\\transforms-3\\7e806e1553fc54c2d8f1a217ff8bb132\\transformed\\core-1.6.0\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\Freelancing\\Demo\\Demo Flutter\\indtubes_1\\build\\path_provider_android\\intermediates\\merged_res\\release\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\Srijan Mukhopadhyay\\.gradle\\caches\\transforms-3\\7e806e1553fc54c2d8f1a217ff8bb132\\transformed\\core-1.6.0\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Freelancing\\Demo\\Demo Flutter\\indtubes_1\\build\\path_provider_android\\intermediates\\merged_res\\release\\drawable-hdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\Srijan Mukhopadhyay\\.gradle\\caches\\transforms-3\\7e806e1553fc54c2d8f1a217ff8bb132\\transformed\\core-1.6.0\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    }
+]

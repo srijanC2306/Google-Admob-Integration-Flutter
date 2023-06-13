@@ -1,0 +1,82 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Freelancing\\Demo\\Demo Flutter\\indtubes_1\\build\\firebase_core\\intermediates\\merged_res\\release\\values-th\\values-th.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Srijan Mukhopadhyay\\.gradle\\caches\\transforms-3\\7e806e1553fc54c2d8f1a217ff8bb132\\transformed\\core-1.6.0\\res\\values-th\\values-th.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "184",
+                        "endColumns": "100",
+                        "endOffsets": "280"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Srijan Mukhopadhyay\\.gradle\\caches\\transforms-3\\2eff1f65c97ff28a4cb2e61f3aad13f0\\transformed\\jetified-play-services-basement-18.1.0\\res\\values-th\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "195",
+                        "endColumns": "124",
+                        "endOffsets": "319"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "128",
+                        "endOffsets": "179"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\Freelancing\\Demo\\Demo Flutter\\indtubes_1\\build\\firebase_core\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-th\\values-th.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Srijan Mukhopadhyay\\.gradle\\caches\\transforms-3\\7e806e1553fc54c2d8f1a217ff8bb132\\transformed\\core-1.6.0\\res\\values-th\\values-th.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "184",
+                        "endColumns": "100",
+                        "endOffsets": "280"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Srijan Mukhopadhyay\\.gradle\\caches\\transforms-3\\2eff1f65c97ff28a4cb2e61f3aad13f0\\transformed\\jetified-play-services-basement-18.1.0\\res\\values-th\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "195",
+                        "endColumns": "124",
+                        "endOffsets": "319"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "128",
+                        "endOffsets": "179"
+                    }
+                }
+            ]
+        }
+    ]
+}
